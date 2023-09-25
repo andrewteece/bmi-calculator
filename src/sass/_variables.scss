@@ -1,0 +1,39 @@
+// Fonts
+
+$ff-primary: 'Inter', sans-serif;
+
+// Font Sizes
+
+$fs-300: 0.875rem;
+$fs-400: 1rem;
+$fs-500: 1.25rem;
+$fs-600: 1.5rem;
+$fs-700: 3rem;
+$fs-800: 4rem;
+
+// Font Weights
+
+$fw-400: 400;
+$fw-600: 600;
+
+// Colors
+
+$clr-accent-400: hsl(227, 92%, 58%);
+$clr-accent-500: hsl(215, 17%, 45%);
+$clr-accent-600: hsl(215, 31%, 21%);
+
+$clr-neutral-400: hsl(0, 0%, 100%);
+$clr-neutral-500: hsl(200, 24%, 88%);
+
+$background-gradient-400: linear-gradient(
+  290deg,
+  rgba(214, 230, 254, 1) 0%,
+  rgba(214, 252, 254, 0) 100%
+);
+$background-gradient-600: linear-gradient(
+  290deg,
+  rgba(214, 230, 254, 0.3) 0%,
+  rgba(214, 252, 254, 0) 100%
+);
+
+$shadow-400: rgba(143, 174, 207, 0.25);
