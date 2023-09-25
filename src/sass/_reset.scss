@@ -1,3 +1,5 @@
+@use 'variables' as *;
+
 *,
 ::before,
 ::after {
@@ -35,5 +37,3 @@ h5,
 p {
   overflow-wrap: break-word;
 }
-
-/*# sourceMappingURL=style.css.map */
