@@ -3,6 +3,7 @@
 @use 'base';
 
 .header__content {
+  max-width: 100%;
   text-align: center;
   padding-inline: 1.5rem;
   padding-block: 2rem;
@@ -26,5 +27,4 @@
 .header__text {
   color: $clr-accent-500;
   padding-top: 1.5rem;
-  font-weight: $fw-400;
 }

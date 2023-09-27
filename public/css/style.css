@@ -38,6 +38,7 @@ p {
 }
 
 .header__content {
+  max-width: 100%;
   text-align: center;
   padding-inline: 1.5rem;
   padding-block: 2rem;
@@ -61,7 +62,6 @@ p {
 .header__text {
   color: hsl(215, 17%, 45%);
   padding-top: 1.5rem;
-  font-weight: 400;
 }
 
 /*# sourceMappingURL=style.css.map */
