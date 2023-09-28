@@ -37,6 +37,30 @@ p {
   overflow-wrap: break-word;
 }
 
+.text--md {
+  font-size: 1.25rem;
+}
+
+.text--lg {
+  font-size: 1.5rem;
+}
+
+.text--xlg {
+  font-size: 2rem;
+}
+
+.text--xxlg {
+  font-size: 3rem;
+}
+
+.text--xxxlg {
+  font-size: 4rem;
+}
+
+.text--center {
+  text-align: center;
+}
+
 .header__content {
   max-width: 100%;
   text-align: center;

@@ -1,0 +1,27 @@
+@use 'variables' as *;
+
+// Typography
+
+.text--md {
+  font-size: $fs-500;
+}
+
+.text--lg {
+  font-size: $fs-600;
+}
+
+.text--xlg {
+  font-size: $fs-650;
+}
+
+.text--xxlg {
+  font-size: $fs-700;
+}
+
+.text--xxxlg {
+  font-size: $fs-800;
+}
+
+.text--center {
+  text-align: center;
+}

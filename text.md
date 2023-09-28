@@ -24,7 +24,4 @@ Imperial Height Weight Your BMI is...
     individuals as overweight or obese, as it doesn't differentiate muscle from
     fat. Pregnancy Expectant mothers experience weight gain due to their growing
     baby. Maintaining a healthy pre-pregnancy BMI is advisable to minimise
-    health risks for both mother and child. Race Certain health concerns may
-    affect individuals of some Black and Asian origins at lower BMIs than
-    others. To learn more, it is advised to discuss this with your GP or
-    practice nurse.
+    health risks for both mother and child. Race
