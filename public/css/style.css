@@ -37,6 +37,13 @@ p {
   overflow-wrap: break-word;
 }
 
+h1,
+h2,
+h3 {
+  line-height: 1.1;
+  font-weight: 600;
+}
+
 .text--md {
   font-size: 1.25rem;
 }
@@ -59,6 +66,18 @@ p {
 
 .text--center {
   text-align: center;
+}
+
+.text--left {
+  text-align: left;
+}
+
+.articles--text {
+  color: hsl(215, 17%, 45%);
+}
+
+.wrapper {
+  padding-inline: 1.5rem;
 }
 
 .header__content {
@@ -86,6 +105,12 @@ p {
 .header__text {
   color: hsl(215, 17%, 45%);
   padding-top: 1.5rem;
+}
+
+.articles__section--main {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
 }
 
 /*# sourceMappingURL=style.css.map */

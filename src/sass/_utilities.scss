@@ -25,3 +25,17 @@
 .text--center {
   text-align: center;
 }
+
+.text--left {
+  text-align: left;
+}
+
+.articles--text {
+  color: $clr-accent-500;
+}
+
+// Layout
+
+.wrapper {
+  padding-inline: 1.5rem;
+}
